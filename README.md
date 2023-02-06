@@ -1,19 +1,10 @@
-# Meta Front-End Developer Professional Certificate
-There are 9 Courses in this Professional Certificate
-## 1. Introduction to Front-End Development
+# META COURSERA PROFESSIONAL CERTIFICATE COURSES
 
-## 2. Programming with JavaScript
-
-## 3. Version Control
-
-## 4. HTML and CSS in depth
-
-## 5. React Basics
-
-## 6. Advanced React
-
-## 7. Principles of UX/UI Design
-
-## 8. Front-End Developer Capstone
-
-## 9. Coding Interview Preparation
+## 1. Front-End Developer Professional Certificate
+Learn the foundations of front-end development and gain in-demand programming skills through developing a front-end web application for your portfolio.
+#### Common job titles:
+* Front-End Developer,
+* Website Developer,
+* Full Stack Developer,
+* Front End Engineer,
+* Software Engineer
